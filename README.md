@@ -1,13 +1,11 @@
-# Sample Hardhat Project
+# Day1 of 12 Learnweb3 challenge
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+Deployed the smart contract to address:
+```
+0x940D6D04548c05f81fDe15C60915a4496d1c4a56
+```
 
-Try running some of the following tasks:
+Deployed to Sepolia testnet
 
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.js
+You can install hardhat and follow the deployment criteria as well.
 ```
